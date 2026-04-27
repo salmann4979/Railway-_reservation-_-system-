@@ -18,4 +18,4 @@ This is a simple Python based Railway Reservation System developed for UKF Colle
 3. Select menu options
 
 ## Author
-SneSalman Fariz A
+Salman Fariz A
